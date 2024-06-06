@@ -1,6 +1,6 @@
-# Nama Anggota Kelompok :
-# Maulana Agus Setiawan - 2209106024
-# Wilson Boyaron Hutagalung - 2209106035
+### Nama Anggota Kelompok :
+### Maulana Agus Setiawan - 2209106024
+### Wilson Boyaron Hutagalung - 2209106035
 
 # Pemantauan Suhu, Kelembapan, Kualitas Udara, dan Kontrol LED Menggunakan Kodular dengan Protokol MQTT dan HTTP
 
