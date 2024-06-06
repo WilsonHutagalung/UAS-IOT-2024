@@ -24,6 +24,8 @@ Dalam kehidupan sehari-hari, kenyamanan di dalam ruangan sangat penting. Faktor-
 
 <img src="assets/dashboardKodular.jpg" alt="Beranda" width="500"/>
 
+<img src="assets/dashboardKodular(2).jpg" alt="Beranda" width="500"/>
+
 ### Hasil Pengujian Monitoring
 
 <img src="assets/Monitoring.png" alt="Beranda" width="766"/>
